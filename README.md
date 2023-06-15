@@ -17,7 +17,3 @@
 Сам проект:
 https://colab.research.google.com/drive/1PoF3sAHroIL-N7nBiMyj3pNP5QsvgaSH?usp=sharing
 
-Контакты:  
-Рудинский Тимур  
-tg: https://t.me/Polu_Publicnoe_Imya  
-mail: chasodeitonny03@gmail.com  
